@@ -1,15 +1,15 @@
 # Landing Page KAP NWJ Cabang Yogyakarta
 
 ## Deskripsi Singkat
-Ini adalah landing page statis yang dirancang untuk Kantor Akuntan Publik (KAP) Naufal Widita Jati (NWJ) Cabang Yogyakarta. Halaman ini bertujuan untuk memperkenalkan layanan utama KAP NWJ Yogyakarta, menonjolkan nilai inti "Integritas – Profesional – Independen", dan mengarahkan pengunjung untuk menghubungi atau mengetahui lebih lanjut melalui website utama KAP NWJ (`nawiji.id`).
+Ini adalah landing page statis yang dirancang untuk Kantor Akuntan Publik (KAP) Naufal Widita Jati (NWJ) Cabang Yogyakarta. Halaman ini bertujuan agar dapat mengakses subdomain khusus untuk masing-masing kantor pusat, Yogyakarta, dan Solo.
 
 Landing page ini dibuat sebagai bagian dari proyek Kerja Praktik.
 
 ## Tujuan Landing Page
-* Memperkenalkan profil singkat dan layanan unggulan KAP NWJ Cabang Yogyakarta kepada calon klien di area Yogyakarta dan sekitarnya.
+* Memperkenalkan profil singkat dan layanan unggulan KAP NWJ kepada calon klien di area Yogyakarta dan Solo.
 * Menegaskan komitmen KAP NWJ pada prinsip Integritas, Profesionalisme, dan Independensi.
-* Mengarahkan pengunjung untuk melakukan tindakan lebih lanjut (konsultasi atau mendapatkan informasi detail) melalui website utama `nawiji.id`.
-* Berfungsi sebagai halaman tujuan yang dioptimalkan untuk kampanye pemasaran digital lokal (jika ada).
+* Mengarahkan pengunjung untuk melakukan tindakan lebih lanjut melalui website utama `nawiji.id`.
+* Berfungsi sebagai halaman tujuan yang dioptimalkan untuk kampanye pemasaran digital lokal.
 
 ## Teknologi yang Digunakan
 * HTML5
@@ -27,7 +27,7 @@ Landing page ini terdiri dari beberapa bagian utama:
 6.  **Footer:** Informasi kontak detail KAP NWJ Cabang Yogyakarta, hak cipta, dan tautan ke website utama serta kebijakan privasi.
 
 
-Landing page ini dirancang untuk berfungsi sebagai satelit atau halaman pendukung untuk website utama KAP NWJ (`nawiji.id`). Tujuannya adalah menarik perhatian pada layanan spesifik atau target geografis (Yogyakarta) dan kemudian mengarahkan pengguna yang tertarik ke platform utama untuk interaksi lebih lanjut atau informasi yang lebih komprehensif.
+Landing page ini dirancang untuk berfungsi sebagai satelit atau halaman pendukung untuk website utama KAP NWJ (`nawiji.id`). Tujuannya adalah menarik perhatian pada layanan spesifik atau target geografis (Yogyakarta dan Solo) dan kemudian mengarahkan pengguna yang tertarik ke platform utama untuk interaksi lebih lanjut atau informasi yang lebih komprehensif.
 
 ## Kontributor
 * Glen Angelo Timoti Hamdani (NIM: 71210803)
