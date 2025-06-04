@@ -1,0 +1,82 @@
+body {
+  font-family: "Poppins", sans-serif;
+  color: #333333;
+  background-color: #ffffff;
+}
+.hero-section {
+  background-color: #005a9c;
+  color: white;
+  padding: 80px 0;
+}
+.hero-section h1 {
+  font-size: 2.8rem;
+  font-weight: 700;
+}
+.hero-section .lead {
+  font-size: 1.3rem;
+  margin-bottom: 30px;
+}
+.btn-cta {
+  background-color: #f58220;
+  border-color: #f58220;
+  color: white;
+  font-weight: bold;
+  padding: 12px 30px;
+  font-size: 1.1rem;
+}
+.btn-cta:hover {
+  background-color: #d9701a;
+  border-color: #d9701a;
+  color: white;
+}
+.section-title {
+  color: #005a9c;
+  font-weight: 600;
+  margin-bottom: 40px;
+}
+.service-card {
+  border: 1px solid #eff3f6;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease;
+  height: 100%;
+  background-color: #ffffff;
+}
+.service-card:hover {
+  transform: translateY(-10px);
+}
+.service-card .card-title {
+  color: #005a9c;
+  font-weight: 600;
+}
+.tagline-nav {
+  font-size: 0.85rem; /* Ukuran font tagline di navbar */
+  font-weight: 500;
+  color: #555555; /* Warna tagline di navbar, sesuaikan */
+  margin-left: 10px; /* Jarak dari logo */
+  line-height: 1.2; /* Sesuaikan line-height jika perlu */
+}
+footer {
+  background-color: #005a9c;
+  color: white;
+}
+footer a {
+  color: #f58220;
+  text-decoration: none;
+}
+footer a:hover {
+  text-decoration: underline;
+}
+.navbar {
+  background-color: #ffffff !important;
+  border-bottom: 1px solid #eff3f6;
+}
+.navbar-brand,
+.nav-link {
+  color: #005a9c !important;
+}
+.nav-link.active {
+  font-weight: bold;
+}
+.navbar-brand img {
+  max-height: 50px;
+}
